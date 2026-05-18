@@ -6,5 +6,7 @@ import java.util.*;
         int a = sc.nextInt();
         int b = sc.nextInt();
         System.out.println("Result: " + (a + b));
+        System.out.println("Result: " + (a + b));
+
     }
 }
